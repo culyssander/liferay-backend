@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.liferay.treinamento.contacto.model.Contacto">
+		<field name="uuid" type="String" />
+		<field name="contactoId" type="long" />
+		<field name="groupId" type="long" />
+		<field name="companyId" type="long" />
+		<field name="userId" type="long" />
+		<field name="userName" type="String" />
+		<field name="createDate" type="Date" />
+		<field name="modifiedDate" type="Date" />
+		<field name="nome" type="String" />
+		<field name="telefone" type="String" />
+		<field name="idade" type="int" />
+		<field name="email" type="String" />
+	</model>
+</model-hints>

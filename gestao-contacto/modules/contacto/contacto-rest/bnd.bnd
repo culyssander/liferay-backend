@@ -1,0 +1,4 @@
+Bundle-Name: contacto-rest
+Bundle-SymbolicName: com.liferay.trainamento.servico.rest
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
